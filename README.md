@@ -1,4 +1,4 @@
-<!-- <h1 align="left">Hello, I'm Noth1ng</h1>
+<h1 align="left">Hello, I'm Noth1ng</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 <p align="left">I'm a Software Engineering (RPL) student who is currently learning and exploring the world of Web Development.  <br>This repository contains my learning progress, practice projects, and school assignments, mainly focused on frontend and backend web development.</p>
 
-### -->
+###
 
 <h2 align="left">Stack</h2>
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Activity</h2>
+<h2 align="left">Activity & Stats</h2>
 
 ###
 
