@@ -3,16 +3,17 @@
 ###
 
 <div align="center">
-  <img height="200" src="/anime.gif"  />
+  <img height="200" src="/anime.gif" alt="gif" />
 </div>
 
 ###
 
 <p align="left">I'm a Software Engineering (RPL) student who is currently learning and exploring the world of Web Development.  <br>This repository contains my learning progress, practice projects, and school assignments, mainly focused on frontend and backend web development.</p>
+<br>
 
 ###
 
-<h2 align="left">Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
@@ -24,6 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 <br>
 
@@ -37,7 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tegarpermanaputra21-sudo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tegarpermanaputra21-sudo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<br>
 
 ###
 
