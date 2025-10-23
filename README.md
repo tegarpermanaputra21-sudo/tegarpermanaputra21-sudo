@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="/anime.gif" alt="gif" />
+  <img height="200" src="/dark.gif" alt="gif" />
 </div>
 
 ###
